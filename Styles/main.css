@@ -1,0 +1,20 @@
+ul{
+    list-style-type: none;
+}
+
+ul a {
+    
+    background-color: lightgray;
+    display: inline-block;
+    text-decoration: none;
+    padding: 2px;
+    margin: 2px;
+    width: 90%;
+
+
+}
+
+h1 {
+    color: blue; 
+
+}
